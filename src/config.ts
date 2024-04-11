@@ -1,24 +1,24 @@
 export const config = {
     "site": {
-      "name": "demo",
-      "site": "https://demo.com",
+      "name": "LoveLust",
+      "site": "https://lovelust.online",
       "base": "/",
       "trailingSlash": false,
       "googleSiteVerificationId": false,
-      "aws_Tagid": "",
+      "aws_Tagid": "sicolox-20",
     },
     "metadata": {
       "title": {
-        "default": "",
-        "template": "%s — "
+        "default": "Explore Together: Couples' Toys for Shared Pleasure",
+        "template": "%s — Love Lust"
       },
-      "description": "",
+      "description": "Deepen your connection with LoveLust's couples' toys. Designed for shared pleasure, explore new heights together.",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "site_name": "",
+        "site_name": "LoveLust",
         "images": [
           {
             "url": "~/assets/images/default.png",
@@ -70,7 +70,7 @@ export const config = {
     "analytics": {
       "vendors": {
         "googleAnalytics": {
-          "id": "",
+          "id": "G-YS5K3NXWBW",
         }
       }
     },
